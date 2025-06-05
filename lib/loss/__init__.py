@@ -1,0 +1,1 @@
+from .loss import MixLoss_L2ANDCEL, MixLoss_L2ANDKL, CE_Loss, SoftKLLoss, AdaptiveWingLoss, MixLoss_AWINGANDCEL
