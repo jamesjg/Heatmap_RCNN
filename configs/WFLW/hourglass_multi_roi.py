@@ -3,8 +3,8 @@ _base_ = '../default.py'
 data = dict(
     data_type = 'WFLW',
     num_landmarks = 98,
-    data_folder = 'train_with_box',
-    test_folder = 'test_with_box'
+    data_folder = 'train',
+    test_folder = 'test'
 )
 
 model = dict(
